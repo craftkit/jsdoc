@@ -7,6 +7,15 @@ An API documentation generator for JavaScript.
 
 Want to contribute to JSDoc? Please read `CONTRIBUTING.md`.
 
+
+Changes for Craft-UIKit
+----------------------
+
+add @packagename  
+
+for more detail, see craft-docdash.
+
+
 Installation and Usage
 ----------------------
 
